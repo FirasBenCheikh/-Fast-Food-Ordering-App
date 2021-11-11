@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541382688713",
+    "project_id": "enjoyeat-e99cf",
+    "storage_bucket": "enjoyeat-e99cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073152590994:android:48af4c571c6825c952124b",
+        "android_client_info": {
+          "package_name": "com.example.enjoyeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073152590994-g7oft9eb1unib59m6vs5mb7feqgsk7uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enjoyeat",
+            "certificate_hash": "f5b3528552592b56dd176494b9d33439ea30596c"
+          }
+        },
+        {
+          "client_id": "1073152590994-5h457nt7al6laea303bnsmt5lfifo4g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fsaZ1KHRPNg_XpybFdY0aim7QVw5d6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073152590994-5h457nt7al6laea303bnsmt5lfifo4g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

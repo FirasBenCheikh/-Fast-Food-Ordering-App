@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541382688713",
+    "firebase_url": "https://enjoyeat-e99cf-default-rtdb.firebaseio.com",
+    "project_id": "enjoyeat-e99cf",
+    "storage_bucket": "enjoyeat-e99cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541382688713:android:bb6ae26a3c8c047ce63218",
+        "android_client_info": {
+          "package_name": "com.example.enjoyeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541382688713-5de9envic2ev1o38fenjo73lvt7i7ad4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enjoyeat",
+            "certificate_hash": "f5b3528552592b56dd176494b9d33439ea30596c"
+          }
+        },
+        {
+          "client_id": "541382688713-gun4mqs9q3215ctlhhr2eim30rn16m3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjVxnUyytmNWtpGMz_JvZRTiXReLKyKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541382688713-gun4mqs9q3215ctlhhr2eim30rn16m3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
